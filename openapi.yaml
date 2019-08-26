@@ -7,8 +7,8 @@ info:
     name: 'Apache 2.0'
     url: 'https://raw.githubusercontent.com/mcupak/ga4gh-specification-template/develop/LICENSE'
   contact:
-    name: ''
-    email: ''
+    name: 'Foo Bar'
+    email: 'foobar@example.com'
 security:
   - bearerAuth: []
 paths:
