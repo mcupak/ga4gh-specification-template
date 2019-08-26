@@ -1,3 +1,3 @@
 # GA4GH Specification Template [![](https://travis-ci.org/mcupak/ga4gh-specification-template.svg?branch=develop)](https://travis-ci.org/mcupak/ga4gh-specification-template) [![](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/mcupak/ga4gh-specification-template/develop/LICENSE)
 
-Template repository for setting up repositories containing GA4GH specifications.
+This is a [template repository](https://help.github.com/en/articles/creating-a-repository-from-a-template) for setting up repositories containing GA4GH specifications. Use it to [generate new GA4GH repositories](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/).
